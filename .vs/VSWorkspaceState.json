@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Chapter",
+    "\\Chapter\\Chapter",
+    "\\Chapter\\Chapter\\bin",
+    "\\Chapter\\Chapter\\Contexts",
+    "\\Chapter\\Chapter\\Controllers"
+  ],
+  "SelectedNode": "\\Chapter\\Chapter\\Contexts\\ChapterContext.cs",
+  "PreviewInSolutionExplorer": false
+}
